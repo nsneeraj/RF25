@@ -13,5 +13,8 @@ public class MyGit {
 	public void display(){
 		
 	}
+public void play(){
+		
+	}
 
 }
