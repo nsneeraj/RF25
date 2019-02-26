@@ -1,19 +1,13 @@
 package webElementMethod;
 
+import org.testng.annotations.Test;
+
 public class MyGit {
-
-	public MyGit() {
-		// TODO Auto-generated constructor stub
-	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-	public void display(){
+@Test
+	
 		
-	}
-public void play(){
+		public void display() {
+			
 		
 	}
 
