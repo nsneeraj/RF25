@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class MyGit {
 static {
-	System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","./driver/chromedriver.exe");
 	
 }
 	@Test
