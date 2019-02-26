@@ -10,9 +10,8 @@ static {
 	
 }
 	@Test
-	
 		public void display() {
-			
+		
 		WebDriver driver = new ChromeDriver();
 		driver.quit();
 	}
